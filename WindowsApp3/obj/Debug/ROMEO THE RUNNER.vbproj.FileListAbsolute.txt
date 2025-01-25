@@ -1,0 +1,101 @@
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.Cache
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\Admin\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+I:\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+I:\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+I:\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+I:\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+I:\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+I:\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.cache
+I:\WindowsApp3\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+I:\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+F:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+F:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe
+F:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.pdb
+F:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.xml
+F:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+F:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.Cache
+F:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.exe
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.xml
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.pdb
+G:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+G:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe
+G:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.pdb
+G:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.xml
+G:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+G:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.Cache
+G:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.exe
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.xml
+G:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.pdb
+R:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+R:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe
+R:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.pdb
+R:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.xml
+R:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+R:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.Cache
+R:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.exe
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.xml
+R:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.pdb
+E:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+E:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.exe
+E:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.pdb
+E:\WindowsApp3V\WindowsApp3\bin\Debug\WindowsApp3.xml
+E:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+E:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.Cache
+E:\WindowsApp3V\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.exe
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.xml
+E:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.pdb
+F:\WindowsApp3V\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+F:\WindowsApp3VV\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+F:\WindowsApp3VV\WindowsApp3\bin\Debug\WindowsApp3.exe
+F:\WindowsApp3VV\WindowsApp3\bin\Debug\WindowsApp3.pdb
+F:\WindowsApp3VV\WindowsApp3\bin\Debug\WindowsApp3.xml
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbprojResolveAssemblyReference.cache
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Form0.resources
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.GenerateResource.cache
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\ROMEO THE RUNNER.vbproj.CoreCompileInputs.cache
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.exe
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.xml
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.pdb
+F:\WindowsApp3VV\WindowsApp3\obj\Debug\WindowsApp3.Form5.resources
